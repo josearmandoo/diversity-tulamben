@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 80b2234c915903149b4c6ba04b9cc9c7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: manta3_Frame_0
+    originalName: 
+    pivot: {x: 0.52380955, y: -1.0289854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 582
+      width: 210
+      height: 69
+    spriteID: bbd502465ae9f2a4caef0ee3d970f262
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 582}
+  - name: manta3_Frame_1
+    originalName: 
+    pivot: {x: 0.5463414, y: -0.505618}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 398
+      width: 205
+      height: 89
+    spriteID: dfdbf5c71a635794aa799b5811dbd8a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 398}
+  - name: manta3_Frame_2
+    originalName: 
+    pivot: {x: 0.565, y: -0.23423423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 200
+      height: 111
+    spriteID: e2c3c8978847b204eb383447cf1cab27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: manta3_Frame_3
+    originalName: 
+    pivot: {x: 0.5211268, y: -0.8734177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 495
+      width: 213
+      height: 79
+    spriteID: c14f46a5dc6275543b9f44650f686565
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 495}
+  - name: manta3_Frame_4
+    originalName: 
+    pivot: {x: 0.5070422, y: -0.89010996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 206
+      width: 213
+      height: 91
+    spriteID: b3dfdf2a98caca441a5df5e9edfae7b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 206}
+  - name: manta3_Frame_5
+    originalName: 
+    pivot: {x: 0.5023256, y: -0.9042553}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 4
+      width: 215
+      height: 94
+    spriteID: d9fea6691fe2fe24bb2a8606d71f5146
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 4}
+  - name: manta3_Frame_6
+    originalName: 
+    pivot: {x: 0.48387095, y: -0.9565218}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 106
+      width: 217
+      height: 92
+    spriteID: 69c9ef0c0179ba44fb21aeb6084e7825
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 106}
+  - name: manta3_Frame_7
+    originalName: 
+    pivot: {x: 0.48372096, y: -0.9764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 305
+      width: 215
+      height: 85
+    spriteID: 5f6a60c50a24a4f41a87f500d28093ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 305}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1568090302
+    name: manta3
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: manta3_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 10
+        y: 71
+        width: 210
+        height: 69
+      spriteId: bbd502465ae9f2a4caef0ee3d970f262
+    - name: manta3_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 8
+        y: 45
+        width: 205
+        height: 89
+      spriteId: dfdbf5c71a635794aa799b5811dbd8a3
+    - name: manta3_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 7
+        y: 26
+        width: 200
+        height: 111
+      spriteId: e2c3c8978847b204eb383447cf1cab27
+    - name: manta3_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 9
+        y: 69
+        width: 213
+        height: 79
+      spriteId: c14f46a5dc6275543b9f44650f686565
+    - name: manta3_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 12
+        y: 81
+        width: 213
+        height: 91
+      spriteId: b3dfdf2a98caca441a5df5e9edfae7b3
+    - name: manta3_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 12
+        y: 85
+        width: 215
+        height: 94
+      spriteId: d9fea6691fe2fe24bb2a8606d71f5146
+    - name: manta3_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 15
+        y: 88
+        width: 217
+        height: 92
+      spriteId: 69c9ef0c0179ba44fb21aeb6084e7825
+    - name: manta3_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 16
+        y: 83
+        width: 215
+        height: 85
+      spriteId: 5f6a60c50a24a4f41a87f500d28093ef
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 240, y: 240}
